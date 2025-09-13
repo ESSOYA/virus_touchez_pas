@@ -16,8 +16,10 @@
     "baileys": "^7.0.0-rc.2",
     "dotenv": "^17.2.2",
     "express": "^5.1.0",
+    "googlethis": "^1.8.0",
     "nodemon": "^3.1.10",
     "pino": "^9.9.5",
-    "qrcode": "^1.5.4"
+    "qrcode": "^1.5.4",
+    "ytdl-core": "^4.11.5"
   }
 }
